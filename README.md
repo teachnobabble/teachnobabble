@@ -1,3 +1,5 @@
+<img src="image1.jpg" width="400" alt="My Image" align="center">
+
 ## Hi there 👋
 
 <!--
